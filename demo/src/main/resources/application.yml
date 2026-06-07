@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: demo
+
+
+datasource:
+  jdbc-url: url
+  username: postgres
+  password: postgres
+  schema: public
+  pool-name:
